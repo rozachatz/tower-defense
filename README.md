@@ -1,2 +1,2 @@
 # tower-defense
-Tower Defense game developed in the Unity Game Engine
+Tower Defense game developed in the Unity Game Engine (C#)
