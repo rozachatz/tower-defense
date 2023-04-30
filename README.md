@@ -21,5 +21,8 @@ Choose the desired build settings and click "Build and Run" to build and start t
 Usage
 Once the game is running, follow the on-screen instructions to play the game. Place towers along the path to defeat enemies and prevent them from reaching the end. Use the tower shop to purchase and upgrade towers.
 
+!['Game screenshot'](pic1.png)
+
+
 # Contributing
 Contributions to this project are welcome
