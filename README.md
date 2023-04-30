@@ -1,5 +1,5 @@
 # Tower Defense Game
-This is a Tower Defense game built using Unity. The objective of the game is to prevent an army of evil creatures from reaching your castle by strategically placing magic towers along the way. The game includes multiple levels with increasing difficulty, a variety of enemies with different strengths and weaknesses, different types of towers with unique abilities, and a shop where players can purchase and upgrade towers.
+This is a Tower Defense game built using Unity. The objective of the game is to prevent an army of evil creatures from reaching your castle by strategically placing magic towers along the way. The game includes animated, strength-increasing enemies, different types of towers with unique abilities, and a shop where players can purchase and upgrade towers.
 
 # Features
 * Boss battles with larger and more powerful enemies as the game progresses.
