@@ -8,17 +8,12 @@ This is a Tower Defense game built using Unity. The objective of the game is to 
 Installation
 To play the game, you can download the game executable from the Releases section of this repository or clone the repository and build the game using Unity.
 
-Downloading the game executable
-Go to the Releases section of this repository.
-Download the game executable for your operating system.
-Run the executable to start the game.
-Building the game using Unity
-Clone the repository to your local machine.
-Open Unity and select "Open Project".
-Navigate to the cloned repository and select the "Tower Defense" folder.
-Once the project has loaded, select "File" > "Build and Run".
-Choose the desired build settings and click "Build and Run" to build and start the game.
-Usage
+# Downloading the game executable
+* Go to the Game section of this repository.
+* Download the game executable for your operating system.
+* Run the executable to start the game.
+
+# Usage
 Once the game is running, follow the on-screen instructions to play the game. Place towers along the path to defeat enemies and prevent them from reaching the end. Use the tower shop to purchase and upgrade towers.
 
 !['Game screenshot'](pic1.png)
