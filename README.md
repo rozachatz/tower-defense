@@ -17,7 +17,7 @@ To play the game, you can download the game executable from the Releases section
 Once the game is running, follow the on-screen instructions to play the game. Place towers along the path to defeat enemies and prevent them from reaching the end. Use the tower shop to purchase and upgrade towers.
 
 !['Game screenshot'](pic1.png)
-
+!['Game screenshot'](towershop.png)
 
 # Contributing
 Contributions to this project are welcome
