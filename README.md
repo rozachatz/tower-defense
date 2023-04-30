@@ -9,7 +9,7 @@ Installation
 To play the game, you can download the game executable from the Releases section of this repository or clone the repository and build the game using Unity.
 
 # Downloading the game executable
-* Go to the Game section of this repository.
+* Go to the TowerDefenseUnity/Game path of this repository.
 * Download the game executable for your operating system.
 * Run the executable to start the game.
 
