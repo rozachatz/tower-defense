@@ -9,7 +9,7 @@ This is a Tower Defense game built using Unity. The objective of the game is to 
 * A variety of tower upgrades, such as increased damage, range, or firing speed.
 * Tower shop where players can purchase and upgrade towers.
 
-#Installation
+# Installation
 To play the game, you can download the game executable from the Releases section of this repository.
 
 # Downloading the game executable
