@@ -8,13 +8,13 @@ This is a Tower Defense game built using Unity. The objective of the game is to 
 * Boss battles with larger and more powerful enemies as the game progresses.
 * A variety of tower upgrades, such as increased damage, range, or firing speed.
 * Tower shop where players can purchase and upgrade towers.
-Installation
-To play the game, you can download the game executable from the Releases section of this repository or clone the repository and build the game using Unity.
 
+#Installation
+To play the game, you can download the game executable from the Releases section of this repository.
 
 # Downloading the game executable
 * Go to the TowerDefenseUnity/Game path of this repository.
-* Download the game executable for your operating system.
+* Download the .exe game executable.
 * Run the executable to start the game.
 
 # Usage
