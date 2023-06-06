@@ -1,5 +1,5 @@
 # Tower Defense Game
-This game was developed in the Unity Game Engine using C#. The C# scripts are provided in the Assets folder of this repository. The game executable can be found in TowerDefenseUnity/Game directory and is ready for employment in Windows hosts.
+This game was developed in the Unity Game Engine using C#. The C# scripts are provided in the Assets folder of this repository. The game Windows executable can be found in TowerDefenseUnity/Game directory.
 
 # Game Description
 Welcome to Tower Defense! Your kingdom is under siege by a ruthless enemy army, and it's up to you to defend it at all costs. As the commander of your army, you must strategically place powerful towers along the winding path to fend off relentless waves of enemy forces. Your ultimate goal is to protect your castle and save your people from certain doom.
