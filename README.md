@@ -15,7 +15,7 @@ Are you ready to join the battle and defend your kingdom from the enemy invaders
 * Tower shop where players can purchase and upgrade towers.
 
 # Installation
-To play the game, you can download the game executable from the Releases section of this repository.
+To play the game, you can download the game executable TowerDefense.exe from the Games folder of this repository.
 
 # Downloading the game executable
 * Go to the TowerDefenseUnity/Game path of this repository.
