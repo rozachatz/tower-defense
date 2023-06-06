@@ -13,6 +13,8 @@ Are you ready to join the battle and defend your kingdom from the enemy invaders
 * Unity Game Engine
 * C#
 
+The C# scripts are provided in the Assets folder of this repository.
+
 # Features
 * Boss battles with larger and more powerful enemies as the game progresses.
 * A variety of tower upgrades, such as increased damage and range.
