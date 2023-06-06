@@ -9,13 +9,14 @@ Are you ready to join the battle and defend your kingdom from the enemy invaders
 !['Game screenshot'](pic1.png)
 !['Game screenshot'](towershop.png)
 
+# Technologies
+* Unity Game Engine
+* C#
+
 # Features
 * Boss battles with larger and more powerful enemies as the game progresses.
 * A variety of tower upgrades, such as increased damage and range.
 * Tower shop where players can purchase and upgrade towers.
-
-# Installation
-To play the game, you can download the game executable TowerDefense.exe from the Games folder of this repository.
 
 # Downloading the game executable
 * Go to the TowerDefenseUnity/Game path of this repository.
